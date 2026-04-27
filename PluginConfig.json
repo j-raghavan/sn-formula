@@ -1,0 +1,10 @@
+{
+  "name": "Formula",
+  "desc": "Adds a 'Formula' option to the lasso menu that converts handwritten scientific notation and equations into clean, typeset text in place.",
+  "iconPath": "assets/icon.png",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "pluginID": "fp83qkmw2nv7zr6c",
+  "pluginKey": "SnFormula",
+  "jsMainPath": "index"
+}
